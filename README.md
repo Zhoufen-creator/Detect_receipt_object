@@ -1,0 +1,1 @@
+# Detect_receipt_object
